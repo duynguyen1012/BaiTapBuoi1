@@ -2,4 +2,4 @@ giao diện sau khi chạy xong         <img width="959" height="539" alt="image
 
 link video: 
 
-cắt một nửa giao diện số 5          <img width="959" height="509" alt="image" src="https://github.com/user-attachments/assets/b87f5b6c-74f5-4b09-a0ed-68a6430ba610" />     
+cắt một nửa giao diện số 5 mà thầy yêu cầu ở trên lớp:          <img width="959" height="509" alt="image" src="https://github.com/user-attachments/assets/b87f5b6c-74f5-4b09-a0ed-68a6430ba610" />     
